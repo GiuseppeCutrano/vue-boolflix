@@ -96,18 +96,7 @@ ul.cards li:first-child img {
     cursor: pointer;
 }
 
-/* ul.cards li:first-child i {
-    display: none;
-}
-
-ul.cards li:first-child:hover i {
-    display: block;
-    font-size: 40px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-} */
+ 
 
  .rate {
     display: flex;
